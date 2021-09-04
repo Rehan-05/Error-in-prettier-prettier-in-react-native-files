@@ -1,8 +1,8 @@
 I'm facing this error " delete ␍ prettier/prettier in react native ". 
 
-then i replace this code with <b> ".prettierrc.js file.' </b>
+then i replace this code with  ".prettierrc.js file.' 
 
-<b>
+
 
 rules: {
   prettier/prettier ['error', {
@@ -25,4 +25,3 @@ module.exports = {
   },
 };
 
-</b>
