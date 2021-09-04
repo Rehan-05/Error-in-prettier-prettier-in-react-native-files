@@ -1,0 +1,1 @@
+# Error-in-prettier-prettier-in-react-native-files
